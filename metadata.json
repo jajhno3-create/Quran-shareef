@@ -1,0 +1,6 @@
+{
+  "name": "Nur Al Quran",
+  "description": "A comprehensive Quran application featuring all 114 Surahs with Arabic text and Urdu translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
